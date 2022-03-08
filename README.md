@@ -6,6 +6,7 @@
 
 ## Instructions
 
+
 Use `src/reducer.js` to follow along. The file is already set up in
 `index.html`, so if you run `open index.html`, any code in `src/reducer.js` will
 execute.
